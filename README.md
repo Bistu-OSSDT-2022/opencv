@@ -12,8 +12,7 @@ MIT LICENCE
 ---
 
 # 管理团队(team)
-
-五花肉队
+# 五花肉队
 
 
 # 组长(leader)
